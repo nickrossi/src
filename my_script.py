@@ -23,8 +23,8 @@ print("Greeting:", greeting)
 fruits = ['apple', 'banana', 'cherry']
 scores = [85, 90, 75, 88]
 
-print("Fruites:", fruits)
-print("Scoress:", scores)
+print("Fruits:", fruits)
+print("Scores:", scores)
 
 # Tuple variables
 coordinates = (10, 20)
